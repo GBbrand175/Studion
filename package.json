@@ -1,0 +1,16 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "projeto Studion",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
