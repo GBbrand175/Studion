@@ -11,6 +11,17 @@
     "CSS",
     "Javascript"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "Gabriel Brandao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBbrand175/Studion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GBbrand175/Studion/issues"
+  },
+  "homepage": "https://github.com/GBbrand175/Studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
